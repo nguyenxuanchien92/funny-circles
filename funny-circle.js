@@ -26,7 +26,6 @@ function getRandomColor() {
     let red = getRandomHex();
     let green = getRandomHex();
     let blue = getRandomHex();
-
     return "rgb(" + red + "," + blue + "," + green + ")";
 }
 
